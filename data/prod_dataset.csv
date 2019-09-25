@@ -1,4 +1,4 @@
-﻿Well,DayNo,Gas_Mcf,Cond_bpd,Water_bpd,AL_Method
+Well,DayNo,Gas_Mcf,Cond_bpd,Water_bpd,AL_Method
 BBE 13,1,149,NULL,9.32,INJECTION STRING
 BBE 13,2,87,1.16,5.82,INJECTION STRING
 BBE 13,3,109,NULL,2.33,INJECTION STRING
